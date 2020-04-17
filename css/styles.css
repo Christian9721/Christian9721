@@ -913,6 +913,19 @@ input[type='checkbox'] {
 	}
 }
 
+.AnimVideo{
+	animation: Video-Anim 2500ms linear infinite alternate-reverse;
+}
+
+@keyframes Video-Anim {
+	0% {
+		filter: hue-rotate(0deg);
+	}
+	100%{
+		filter: hue-rotate(80deg);
+	}
+}
+
 .tabs h2 {
 	margin-bottom: 1.125rem;
 	text-align: center;
