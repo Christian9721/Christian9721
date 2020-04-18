@@ -129,10 +129,10 @@
 
     <div class="parallax-window" data-parallax="scroll" data-image-src="images/nebulosa2.png">
         <!-- Privacy Content -->
-    <div class="ex-basic-2">
-        <div class="container" style="display:flex; flex-direction: row-reverse;">
-            <div class="row">
-                <div class="col-lg-10 offset-lg-1">
+    <div class="ex-basic-2" style="padding-left: 10px; padding-right: 10px; display: block;">
+        <div class="container">
+            <div class="row" style="display: block;">
+                <div>
                     <div class="text-container">
                         <h2>Welcome to the development world</h2>
                         <p>In this space you will find different libraries that you can apply to your projects, the libraries are oriented to video game development and mobile development.</p>
@@ -158,8 +158,9 @@
                     <div class="text-container">
                         <h2>Unity-MayCore</h2>
                         <p>Library for unity written in C#. The purpose of this library is to help the video game developer in different areas, it contains interfaces, managers and method extensions to perform physical behaviors and networking utilities for multiplayer video games.</p>                       
-                        <h3>Forget all that stressful code like this:</h3>    
-                        <!-- HTML Abstract --><div style="background: #2d2d2d; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em; margin-top: 30px; margin-bottom: 30px;"><table><tr><td><pre style="margin: 0; line-height: 125%"> 1
+                        <h3>Forget all that stressful code like this:</h3>  
+                        <div>
+                            <!-- HTML Abstract --><div  class="CodeBackground"><table><tr><td><pre style="margin: 0; line-height: 125%"> 1
  2
  3
  4
@@ -173,8 +174,8 @@
 12
 13
 14
-15</pre></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">public</span> <span style="color: #66d9ef">abstract</span> <span style="color: #66d9ef">class</span> <span style="color: #a6e22e">ManagerSingleton</span><span style="color: #f8f8f2">&lt;<span style="color: #a6e22e;">T</span>&gt;</span> <span style="color: #ff8bbb">:</span> <span style="color: #00ffb3">MonoBehaviour</span>
-    <span style="color: #66d9ef">where</span> <span style="color: #a6e22e">T</span> <span style="color: #ff8bbb">:</span> <span style="color: #00ffb3">MonoBehaviour</span>
+15</pre></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">public</span> <span style="color: #66d9ef">abstract</span> <span style="color: #66d9ef">class</span> <span style="color:#00ffb3">ManagerSingleton</span><span style="color: #f8f8f2">&lt;<span style="color: #a6e22e;">T</span>&gt;</span> <span style="color: #ff8bbb">:</span> <span style="color: #00ffb3">MonoBehaviour</span>
+    <span style="color: #66d9ef">where</span> <span style="color: #a6e22e">T</span> <span style="color: #ff8bbb">:</span> <span style="color: #00ffb3">ManagerSingleton</span><span style="color: #f8f8f2">&lt;<span style="color: #a6e22e;">T</span>&gt;</span>
     <span style="color: #f8f8f2">{</span>
         <span style="color: #66d9ef">private</span> <span style="color: #66d9ef">static</span> <span style="color: #a6e22e">T</span> <span style="color: #f8f8f2">m_instance;</span>
         <span style="color: #66d9ef">public</span> <span style="color: #66d9ef">static</span> <span style="color: #a6e22e">T</span> <span style="color: #f8f8f2">Instance</span>
@@ -189,8 +190,10 @@
         <span style="color: #f8f8f2">}</span>
     <span style="color: #f8f8f2">}</span>
 </pre></td></tr></table></div>
-                        <h3>The only thing you need is to implement an interface and tell MayCore where the manager is located in your project !!</h3>    
-<!-- HTML Interface --><div style="background: #2d2d2d; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em; margin-top: 30px; margin-bottom: 30px;"><table><tr><td><pre style="margin: 0; line-height: 125%">
+                        </div>  
+                        
+                        <h3>All you need to do are call two methods and tell MayCore the name of your manager.</h3>    
+<!-- HTML generated using hilite.me --><div class="CodeBackground"><table><tr><td><pre style="margin: 0; line-height: 125%">
 1
 2
 3
@@ -204,29 +207,29 @@
 11
 12
 13
-14</pre></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">   
-    public</span> <span style="color: #66d9ef">class</span> <span style="color: #a6e22e">Planet</span> <span style="color: #ff8bbb">:</span> <span style="color: #00ffb3">MonoBehaviour</span><span style="color: #f8f8f2;">,</span><span style="color: #f8f870">IAttractableGameObject</span>
+14</pre></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #66d9ef">public</span> <span style="color: #66d9ef">class</span> <span style="color:#00ffb3">Planet</span> <span style="color: #ff8bbb">:</span> <span style="color:#00ffb3">MonoBehaviour</span>
    <span style="color: #f8f8f2">{</span>
-       <span style="color: #66d9ef">public</span> <span style="color: #00ffb3">Rigidbody</span> <span style="color: #a6e22e">RB</span><span style="color: #f8f8f2">()</span> <span style="color: #f8f8f2"><span style="color: #ff8bbb;">=&gt;</span></span> <span style="color:  #00ffb3">GetComponent</span><span style="color: #f8f8f2;">&lt;</span><span style="color:  #00ffb3">Rigidbody</span><span style="color: #f8f8f2;">&gt;();</span>
-       <span style="color: #66d9ef">public</span> <span style="color:  #00ffb3">Manager</span> <span style="color: #f8f8f2">MyManager;</span>
-   
+       <span style="color: #66d9ef">public</span> <span style="color: #00ffb3">Rigidbody</span> <span style="color: #f8f8f2">RB;</span>
+       
        <span style="color: #66d9ef">void</span> <span style="color: #a6e22e">Start</span><span style="color: #f8f8f2">()</span>
        <span style="color: #f8f8f2">{</span>
-          <span style="color: #f8f8f2">MyManager.InicializeAttractable(</span><span style="color: #66d9ef">this</span><span style="color: #f8f8f2">);</span>
+           <span style="color: #f8f8f2">RB</span> <span style="color: #f8f8f2">=</span> <span style="color: #f8f8f2">GetComponent&lt;<span style="color:#00ffb3">Rigidbody</span>&gt;();</span>
+           <span style="color: #f8f8f2"><span style="color: #00ffb3;">manager</span>.Instance.<span style="color: #a6e22e;">InicializeAttractable</span>(RB,</span><span style="color: #ae81ff">15</span><span style="color: #f8f8f2">);</span>
        <span style="color: #f8f8f2">}</span>
-       <span style="color: #66d9ef">void</span> <span style="color: #a6e22e">Update</span><span style="color: #f8f8f2">()</span>
+       <span style="color: #66d9ef">private</span> <span style="color: #66d9ef">void</span> <span style="color: #a6e22e">Update</span><span style="color: #f8f8f2">()</span>
        <span style="color: #f8f8f2">{</span>
-          <span style="color: #f8f8f2">MyManager.Attract(</span><span style="color: #66d9ef">this</span><span style="color: #f8f8f2">,</span> <span style="color: #f8f8f2">GravityForce:</span><span style="color: #ae81ff">9.8f</span><span style="color: #f8f8f2">);</span><span style="color: #75715e">//Optional parameter</span>
+           <span style="color: #f8f8f2"><span style="color: #00ffb3;">manager</span>.Instance.<span style="color: #a6e22e;">Attract</span>(RB);</span>
        <span style="color: #f8f8f2">}</span>
    <span style="color: #f8f8f2">}</span>
    </pre></td></tr></table></div>
-                     <p>With this simple Script we can make the object that has the interface work as an attraction object with other objects with the same interface, this system will be improved with the option of adding layers to identify which object should be joined with which object if required.</p>
+   
+                     <p>With this simple code we only initialize the method with the values ​​we want to work with and then keep it updated in Update.</p>
                      <p>To improve performance we are working to delegate the action of movement to the manager, so fewer calls will be made to Update.</p>  
                      <h2>For multiplayer solutions</h2>
                      <p>One of the big problems of developing a multiplayer video game is synchronizing objects over the network.
                         The client doesn't see everything the server sees, so there is no guarantee that syncing a GameObject that the server knows will be known on the client too.</p>
                         <p>In <a class="turquoise" href="https://mirror-networking.com/">Mirror</a> we have the option to locate these objects with the netId, well, MayCore changed some things to create a method that works with any script that is a NetworkBehavieur, this method allows you to work with a callback to do what you need, forget about create a coroutine for each item you want to search for.</p>
-                     <!-- HTML Mirror --><div style="background: #2d2d2d; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em; margin-top: 30px; margin-bottom: 30px;"><table><tr><td><pre style="margin: 0; line-height: 125%"> 1
+                     <!-- HTML Mirror --><div class="CodeBackground"><table><tr><td><pre style="margin: 0; line-height: 125%"> 1
  2
  3
  4
