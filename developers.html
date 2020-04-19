@@ -28,7 +28,7 @@
     <link href="css/swiper.css" rel="stylesheet">
 	<link href="css/magnific-popup.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
-	
+    <link href="css/badges.css" rel="stylesheet">
 	<!-- Favicon  -->
     <link rel="icon" href="images/favicon.png">
 
@@ -157,8 +157,33 @@
                     </div> <!-- end of text-container-->                
                     <div class="text-container">
                         <h2>Unity-MayCore</h2>
-                        <p>Library for unity written in C#. The purpose of this library is to help the video game developer in different areas, it contains interfaces, managers and method extensions to perform physical behaviors and networking utilities for multiplayer video games.</p>                       
-                        <h3>Forget all that stressful code like this:</h3>  
+                            <div class="badgesdiv">
+                                <div class="double-val-label">
+                                    <span>Target</span>
+                                    <span style="background-color: #337ab7;">Unity</span>               
+                                  </div>
+                                  <div class="double-val-label">
+                                    <span>Coverage</span>
+                                    <span style="background-color:#50ac50;">25%</span>               
+                                  </div>
+                                  <div class="double-val-label">
+                                    <span>Language</span>
+                                    <span style="background-color: #7733b7;">C#</span>     
+                                  </div>
+                                  <div class="double-val-label">
+                                    <span>Licence</span>
+                                    <span style="background-color: #d9534f;">MIT</span>                                    
+                                  </div>   
+                                  <div class="double-val-label">
+                                    <span>Version</span>
+                                    <span style="background-color:  #dd923d;">1.0</span>                                    
+                                  </div>                                
+                            </div>                         
+                        <p>Library for unity written in C#. The purpose of this library is to help the video game developer in different areas, it contains interfaces, managers and method extensions to perform physical behaviors and networking utilities for multiplayer video games.</p>   
+                        <p>These are some themes that the library handles:</p>    
+                        <h3 class="SubtitleDev">GRAVITATIONAL-ATTRACTION</h3> 
+                        <p>If what you are looking for is to have objects that attract each other, this is for you. With a few simple lines of code you can give an object the ability to attract others.</p>               
+                        <h5>Forget all that stressful code like this:</h5>   
                         <div>
                             <!-- HTML Abstract --><div  class="CodeBackground"><table><tr><td><pre style="margin: 0; line-height: 125%"> 1
  2
@@ -192,7 +217,7 @@
 </pre></td></tr></table></div>
                         </div>  
                         
-                        <h3>All you need to do are call two methods and tell MayCore the name of your manager.</h3>    
+                        <h5>All you need to do are call two methods and tell MayCore the name of your manager.</h5>    
 <!-- HTML generated using hilite.me --><div class="CodeBackground"><table><tr><td><pre style="margin: 0; line-height: 125%">
 1
 2
@@ -225,7 +250,7 @@
    
                      <p>With this simple code we only initialize the method with the values ​​we want to work with and then keep it updated in Update.</p>
                      <p>To improve performance we are working to delegate the action of movement to the manager, so fewer calls will be made to Update.</p>  
-                     <h2>For multiplayer solutions</h2>
+                     <h3 class="SubtitleDev">FOR MULTIPLAYER SOLUTIONS</h3>
                      <p>One of the big problems of developing a multiplayer video game is synchronizing objects over the network.
                         The client doesn't see everything the server sees, so there is no guarantee that syncing a GameObject that the server knows will be known on the client too.</p>
                         <p>In <a class="turquoise" href="https://mirror-networking.com/">Mirror</a> we have the option to locate these objects with the netId, well, MayCore changed some things to create a method that works with any script that is a NetworkBehavieur, this method allows you to work with a callback to do what you need, forget about create a coroutine for each item you want to search for.</p>
@@ -258,13 +283,13 @@
     <span style="color: #f8f8f2">{</span>
        <span style="color: #66d9ef">if</span> <span style="color: #f8f8f2">(PlayerI[i].Player</span> <span style="color: #ff8bbb">!=</span> <span style="color: #66d9ef">null</span><span style="color: #f8f8f2">)</span>
        <span style="color: #f8f8f2">{</span>
-          <span style="color: #f8f8f2">PlayerMove</span> <span style="color: #f8f8f2">playertemp</span> <span style="color: #ff8bbb">=</span> <span style="color: #f8f8f2">PlayerI[i].<span style="color: #a6e22e;">Get</span>();</span>
+          <span style="color: #00ffb3;">PlayerMove</span> <span style="color: #f8f8f2">playertemp</span> <span style="color: #ff8bbb">=</span> <span style="color: #f8f8f2">PlayerI[i].<span style="color: #a6e22e;">Get</span>();</span>
           <span style="color: #f8f8f2">playertemp.Manager</span> <span style="color: #ff8bbb">=</span> <span style="color: #66d9ef">this</span><span style="color: #f8f8f2">;</span>
           <span style="color: #f8f8f2">playertemp.IDManager</span> <span style="color: #ff8bbb">=</span> <span style="color: #66d9ef">this</span><span style="color: #f8f8f2">.netId;</span>
        <span style="color: #f8f8f2">}</span>
        <span style="color: #66d9ef">else</span>
        <span style="color: #f8f8f2">{</span>
-          <span style="color: #f8f8f2">StartCoroutine(<span style="color: #a6e22e;">FindObj</span>(PlayerI[i].netId,(PlayerMove</span> <span style="color: #f8f8f2">Player)</span> <span style="color: #ff8bbb">=&gt;</span>
+          <span style="color: #f8f8f2">StartCoroutine(<span style="color: #a6e22e;">FindObj</span>(PlayerI[i].netId,(<span style="color: #00ffb3;">PlayerMove</span></span> <span style="color: #f8f8f2">Player)</span> <span style="color: #ff8bbb">=&gt;</span>
           <span style="color: #f8f8f2">{</span>
              <span style="color: #f8f8f2">Player.Manager</span> <span style="color: #ff8bbb">=</span> <span style="color: #66d9ef">this</span><span style="color: #f8f8f2">;</span>
              <span style="color: #f8f8f2">Player.IDManager</span> <span style="color: #ff8bbb">=</span> <span style="color: #66d9ef">this</span><span style="color: #f8f8f2">.netId;</span>                                     
@@ -320,6 +345,5 @@
     <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
     <script src="js/scripts.js"></script> <!-- Custom scripts -->
     <script src="js/parallax.js-1.5.0/parallax.js"></script> <!-- Parallax Effect -->
-    
 </body>
 </html>
