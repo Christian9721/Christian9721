@@ -1,6 +1,8 @@
-## `Hi, I am the CEO of Mayen Studios 🖤`
+## `Hi, I am the CEO of ⎝Mayen Studios⎠ 🖤`
 
 <a href="https://mayenstudios.github.io/mayenstudios_page/"><img src="https://mayenstudios.github.io/mayenstudios_page/images/background.png" title="MayenStudios" alt="MayenStudios"></a>
+
+[(Illustration by jakeilus)](https://www.instagram.com/jakeilus/) ⟵ `⧹Follow it :3⧸`
 
 I love making **Video Games** and **Mobile Apps**
 I like challenges and developing crazy stuff 🦄
