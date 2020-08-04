@@ -7,15 +7,23 @@
 I love making **Video Games** and **Mobile Apps**
 I like challenges and developing crazy stuff 🦄
 
+<br />
+<br />
+
+---
+
 ## ⚡ About Me
+<!-- ABOUT:START -->
 * Passionate about **UI** and **UX** and why developers should understand it (`ask me about it`)
 * I have experience with **Unity**, **Flutter**, **Web Programming**, **Icon design**, REST API With **Adonis Js** and **NetCore**
 * The languages that I use the most to develop are **Java**, **JS**, **Python**, **Dart**, **Kotlin** and **C#**
 * *light theme or dark theme to work?* Dark 4 ever🧛.
+<!-- ABOUT:END -->
+---
 
-## 🤔 What do I develop normally?
+### 🤔 What do I develop normally?
 * [Web Page about my dreams :\)](#https://mayenstudios.github.io/mayenstudios_page/)
-* Multiplayer Videogame (My First Project) `WIP`
+ Multiplayer Videogame (My First Project) `WIP`
 <img src="https://mayenstudios.github.io/mayenstudios_page/images/Lixenium4.PNG" title="Lixenium" alt="Lixenium" width="400">
 
 * Mobile App About Find Pets `WIP` 
@@ -26,7 +34,7 @@ I like challenges and developing crazy stuff 🦄
 * [Among Spikes (Videogame for Android)](#https://play.google.com/store/apps/details?id=mayenstudios.amongspikes&hl=es_MX)
 <img src="https://mayenstudios.github.io/mayenstudios_page/images/Among1.jpg" title="Among Spikes" alt="Among Spikes" width="400">  
 
-## ✉️ Get in touch!
+### ✉️ Get in touch!
 * [Facebook](https://web.facebook.com/May3nStudios/)
 * [Instagram](https://www.instagram.com/mayenstudios/)
 
