@@ -53,18 +53,13 @@ I like challenges and developing crazy stuff 🦄
 * [Among Spikes (Videogame for Android)](#https://play.google.com/store/apps/details?id=mayenstudios.amongspikes&hl=es_MX)
 <img src="https://mayenstudios.github.io/mayenstudios_page/images/Among1.jpg" title="Among Spikes" alt="Among Spikes" width="400">  
 
-<br />
-<br />
 
----
-<!-- STATS:START -->
+
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayenstudios&show_icons=true&hide_border=true" />
-<!-- STATS:END -->
----
-<br />
-<br />
 
----
+
+
 ### ✉️ Get in touch with me!
 <!-- TOUCH:START -->
 [<img align="left" alt="mayenstudios.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
