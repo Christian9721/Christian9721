@@ -42,18 +42,10 @@ I like challenges and developing crazy stuff 🦄
 
 ### 🤔 What do I develop normally?
 * [Web Page about my dreams :\)](#https://mayenstudios.github.io/mayenstudios_page/)
- Multiplayer Videogame (My First Project) `WIP`
-<img src="https://mayenstudios.github.io/mayenstudios_page/images/Lixenium4.PNG" title="Lixenium" alt="Lixenium" width="400">
-
-* Mobile App About Find Pets `WIP` 
-<img src="https://mayenstudios.github.io/mayenstudios_page/images/pet9.png" title="PetFinder" alt="PetFinder" width="400"> 
-
+* Multiplayer Videogame (My First Project) `WIP`
+* Mobile App About Find Pets `WIP`  
 * App to calculate the development costs of a project (`Made with Electron JS`)
-
-* [Among Spikes (Videogame for Android)](#https://play.google.com/store/apps/details?id=mayenstudios.amongspikes&hl=es_MX)
-<img src="https://mayenstudios.github.io/mayenstudios_page/images/Among1.jpg" title="Among Spikes" alt="Among Spikes" width="400">  
-
-
+* [Among Spikes (Videogame for Android)](#https://play.google.com/store/apps/details?id=mayenstudios.amongspikes&hl=es_MX) 
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayenstudios&show_icons=true&hide_border=true" />
