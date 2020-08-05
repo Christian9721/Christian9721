@@ -9,6 +9,8 @@ I like challenges and developing crazy stuff 🦄
 <br />
 <br />
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mayenstudios&repo=Unity-Tools&theme=dark)](https://github.com/MayenStudios/Unity-Tools)
+
 ---
 
 ## ⚡ About Me
@@ -47,8 +49,10 @@ I like challenges and developing crazy stuff 🦄
 * [Among Spikes (Videogame for Android)](#https://play.google.com/store/apps/details?id=mayenstudios.amongspikes&hl=es_MX) 
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayenstudios&show_icons=true&hide_border=true" />
+<img alt="Mayen Studios' Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayenstudios&show_icons=true&hide_border=true&theme=dark" />
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayenstudios&layout=compact&theme=dark)](https://github.com/MayenStudios/Unity-Tools)
 
 ---
 ### ✉️ Get in touch with me!
@@ -58,7 +62,6 @@ I like challenges and developing crazy stuff 🦄
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <!-- TOUCH:END -->
-
 
 [website]: https://mayenstudios.github.io/mayenstudios_page/
 [youtube]: https://www.youtube.com/channel/UC7UVQho-LcbJFxIhZjN_VWw?
