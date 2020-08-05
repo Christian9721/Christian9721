@@ -14,8 +14,6 @@ I like challenges and developing crazy stuff 🦄
 ## ⚡ About Me
 <!-- ABOUT:START -->
 * Passionate about **UI** and **UX** and why developers should understand it (`ask me about it`)
-* I have experience with **Unity**, **Flutter**, **Web Programming**, **Icon design**, REST API With **Adonis Js** and **NetCore**
-* The languages that I use the most to develop are **Java**, **JS**, **Python**, **Dart**, **Kotlin** and **C#**
 * *light theme or dark theme to work?* Dark 4 ever🧛.
 <!-- ABOUT:END -->
 
