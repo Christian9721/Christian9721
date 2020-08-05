@@ -1,6 +1,6 @@
 ## `⎝Hi, I am the CEO of Mayen Studios 🖤⎠`
 
-<a href="https://mayenstudios.github.io/mayenstudios_page/"><img src="https://mayenstudios.github.io/mayenstudios_page/images/background.png" title="MayenStudios" alt="MayenStudios"></a>
+<a href="https://mayenstudios.github.io/mayenstudios_page/"><img src="https://mayenstudios.github.io/mayenstudios_page/images/background.png" title="MayenStudios" alt="MayenStudios" width="95%" align="center"></a>
 
 [(Illustration by jakeilus)](https://www.instagram.com/jakeilus/) ⟵ `⧹Follow it :3⧸`
 
@@ -53,15 +53,26 @@ I like challenges and developing crazy stuff 🦄
 * [Among Spikes (Videogame for Android)](#https://play.google.com/store/apps/details?id=mayenstudios.amongspikes&hl=es_MX)
 <img src="https://mayenstudios.github.io/mayenstudios_page/images/Among1.jpg" title="Among Spikes" alt="Among Spikes" width="400">  
 
+<br />
+<br />
 
+---
+<!-- STATS:START -->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayenstudios&show_icons=true&hide_border=true" />
+<!-- STATS:END -->
+---
+<br />
+<br />
+
+---
 ### ✉️ Get in touch with me!
 <!-- TOUCH:START -->
-
 [<img align="left" alt="mayenstudios.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <!-- TOUCH:END -->
+
 
 [website]: https://mayenstudios.github.io/mayenstudios_page/
 [youtube]: https://www.youtube.com/channel/UC7UVQho-LcbJFxIhZjN_VWw?
