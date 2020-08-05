@@ -39,7 +39,6 @@ I like challenges and developing crazy stuff 🦄
 <br />
 
 ---
-
 ### 🤔 What do I develop normally?
 * [Web Page about my dreams :\)](#https://mayenstudios.github.io/mayenstudios_page/)
 * Multiplayer Videogame (My First Project) `WIP`
@@ -47,11 +46,11 @@ I like challenges and developing crazy stuff 🦄
 * App to calculate the development costs of a project (`Made with Electron JS`)
 * [Among Spikes (Videogame for Android)](#https://play.google.com/store/apps/details?id=mayenstudios.amongspikes&hl=es_MX) 
 
-
+---
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayenstudios&show_icons=true&hide_border=true" />
 
 
-
+---
 ### ✉️ Get in touch with me!
 <!-- TOUCH:START -->
 [<img align="left" alt="mayenstudios.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
