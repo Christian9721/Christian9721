@@ -51,7 +51,6 @@ I like challenges and developing crazy stuff 🦄
 ---
 <img alt="Mayen Studios' Github Stats" src="https://github-readme-stats.vercel.app/api?username=mayenstudios&show_icons=true&hide_border=true&theme=dark" />
 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayenstudios&layout=compact&theme=dark)](https://github.com/MayenStudios/Unity-Tools)
 
 ---
