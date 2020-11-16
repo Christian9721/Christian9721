@@ -372,11 +372,9 @@ input[type='checkbox'] {
 }
 .div-border{
 	margin-bottom: 3rem;
-	background-color: #16161667;
+	background-color: #2d2d2d6b;
 	border-radius: 10px;
-	backdrop-filter: blur(6px);
 }
-
 /* Form Success And Error Message Formatting */
 #cmsgSubmit.h3.text-center.tada.animated,
 #pmsgSubmit.h3.text-center.tada.animated,
@@ -626,11 +624,10 @@ input[type='checkbox'] {
 /*     03. Navigation     */
 /**************************/
 .navbar-custom {
-	background-color: #2d2d2de7;
+	background-color: #2d2d2dfa;
 	box-shadow: 0 0.0625rem 0.375rem 0 rgba(0, 0, 0, 0.1);
 	font: 700 0.75rem/2rem "Montserrat", sans-serif;
 	transition: all 0.2s;
-	backdrop-filter: blur(10px);
 }
 
 .navbar-custom .navbar-brand.logo-image img {
