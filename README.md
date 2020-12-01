@@ -1,6 +1,6 @@
-## `⎝Hi, I am the CEO of Mayen Studios 🖤⎠`
+## `⎝Hi All 🖤⎠`
 
-<a href="https://mayenstudios.github.io/mayenstudios_page/"><img src="https://mayenstudios.github.io/mayenstudios_page/images/background.png" title="MayenStudios" alt="MayenStudios" width="95%" align="center"></a>
+<a href="https://mayenstudios.github.io/Home/"><img src="https://mayenstudios.github.io/Home/images/background.png" title="MayenStudios" alt="MayenStudios" width="95%" align="center"></a>
 
 [(Illustration by jakeilus)](https://www.instagram.com/jakeilus/) ⟵ `⧹Follow it :3⧸`
 
@@ -8,8 +8,6 @@ I love making **Video Games** and **Mobile Apps**
 I like challenges and developing crazy stuff 🦄
 <br />
 <br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mayenstudios&repo=Unity-Tools&theme=dark)](https://github.com/MayenStudios/Unity-Tools)
 
 ---
 
