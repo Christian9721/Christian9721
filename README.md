@@ -1,8 +1,8 @@
 ## `⎝Hi All 🖤⎠`
 
-<a href="https://mayenstudios.github.io/Home/"><img src="https://mayenstudios.github.io/Home/images/background.png" title="MayenStudios" alt="MayenStudios" width="95%" align="center"></a>
+<a href="https://mayenstudios.github.io/Home/"><img src="https://christian9721.github.io/Home/images/background.png" title="MayenStudios" alt="MayenStudios" width="95%" align="center"></a>
 
-[(Illustration by jakeilus)](https://www.instagram.com/jakeilus/) ⟵ `⧹Follow it :3⧸`
+[(Instagram)](https://www.instagram.com/mayenstudios/) ⟵ `⧹Follow me :3⧸`
 
 I love making **Video Games** and **Mobile Apps**
 I like challenges and developing crazy stuff 🦄
